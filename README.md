@@ -5,8 +5,8 @@
 ---
 
 ## 👥 Team Details
-* **Project Lead:** Chai Ming Yang
-* **Team Members:** Foo Yoong Jie, Khoo Chee Guo, Low Zheng Yu, Nicholas Lau Lik Jie
+* **Project Lead:** Nicholas Lau Lik Jie
+* **Team Members:** Chai Ming Yang, Foo Yoong Jie, Khoo Chee Guo, Low Zheng Yu, 
 * **Track:** Non-Technical Track
 
 ---
